@@ -1,5 +1,7 @@
 Research Group Number # 24-25J-196
+
 Machine learning based Smart learning platform for Nursery school children.
+
 Our research aims to develop a comprehensive machine learning-based smart learning platform designed specifically for 
 nursery school children, delivered through a web application. Utilize advanced machine learning techniques to refine 
 voice recognition patterns, tailored to the linguistic nuances of Sri Lankan nursery school children, thereby improving their 
@@ -11,6 +13,7 @@ pace and style, while also identifying and mitigating potential learning risks e
 By integrating these components into a user-friendly web application, our platform aims to provide a holistic, engaging, 
 and effective learning experience for nursery school children, laying a strong foundation for their future educational 
 endeavors
+
 ![Overall system diagram](https://github.com/user-attachments/assets/55ca437e-bac2-4a91-adf6-ec7d4ab18245)
 
 
