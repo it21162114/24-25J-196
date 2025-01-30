@@ -42,12 +42,12 @@ The system is organized into three primary layers:
 
 Key Modules and Features  
 
- 1. Speech Skill Development  
+ 1. Speech Skill Development (IT21162114 - Iroshan G.K.)  
    - Description:  
      This module utilizes voice recognition and machine learning algorithms to assess and improve children's speaking skills, focusing on pronunciation and vocabulary development.  
 
    - Functionality:  
-     - Children speak into the app, and the system analyzes pronunciation and speech patterns.  
+     - Children speak into the web app, and the system analyzes pronunciation and speech patterns.  
      - Feedback is provided on accuracy, along with corrective suggestions and new vocabulary.  
      - Progress is tracked over time to offer personalized learning paths.  
 
@@ -55,7 +55,7 @@ Key Modules and Features
      - Improves speaking skills by identifying pronunciation issues early.  
      - Provides children with personalized language development exercises.  
 
- 2. Drawing Skills Enhancement  
+ 2. Drawing Skills Enhancement (IT21162282 - Senarathna M.B.) 
    - Description:  
      Using image processing technology, this module helps children improve their drawing skills by comparing their work to a reference image.  
 
@@ -68,7 +68,7 @@ Key Modules and Features
      - Encourages creative development and enhances fine motor skills.  
      - Provides tailored exercises that adapt to the child's current drawing level.  
 
- 3. Coloring Skill Development  
+ 3. Coloring Skill Development (IT21199394 - Dewapriya K.L)
    - Description:  
      This module focuses on improving children's ability to color within the lines and apply color theory concepts through AI-based feedback.  
 
@@ -81,8 +81,7 @@ Key Modules and Features
      - Provides immediate, constructive feedback to improve coloring techniques.
   Here’s the **key modules and features** for the **4th Component: Personalized Learning and Risk Assessment** in the same format:
 
- 4. Personalized Learning and Risk Assessment  
-
+ 4. Personalized Learning and Risk Assessment (IT21347580 - Gunawardena W.P.S)
    - Description:  
      This module focuses on identifying learning difficulties in children and providing tailored interventions to improve their skills in real-time.
 
